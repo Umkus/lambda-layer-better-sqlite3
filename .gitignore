@@ -1,0 +1,7 @@
+.idea/
+coverage
+node_modules/
+dist/*
+!dist/better-sqlite3-layer.zip
+*.iml
+.DS_Store
